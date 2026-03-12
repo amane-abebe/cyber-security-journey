@@ -1,0 +1,6 @@
+Oct 10 10:01:01 Login success for user: amane
+Oct 10 10:02:05 Failed password for user: admin
+Oct 10 10:02:10 Failed password for user: admin
+Oct 10 10:02:15 Failed password for user: root
+Oct 10 10:05:00 Login success for user: amane
+Oct 10 10:10:22 Failed password for user: guest
